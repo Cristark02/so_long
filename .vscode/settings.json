@@ -1,0 +1,17 @@
+{
+	"workbench.colorCustomizations": {
+		"tab.activeBorder": "#7acfd7",
+		"extensionButton.prominentBackground": "#334FBD",
+		"progressBar.background": "#334FBD",
+		"activityBarBadge.background": "#36AED6",
+		"badge.background": "#334FBD",
+		"minimap.background": "#00000088",
+		"scrollbar.shadow": "#00000088"
+	},
+	"files.associations": {
+		"mlx42.h": "c",
+		"libft.h": "c",
+		"ios": "c",
+		"so_long.h": "c"
+	}
+}
